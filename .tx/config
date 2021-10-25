@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[aRIA.qt-translation-021x]
+file_filter = src/qt/locale/aRIA_<lang>.ts
+source_file = src/qt/locale/aRIA_en.ts
+source_lang = en

@@ -1,0 +1,33 @@
+# /etc/conf.d/aRIAd: config file for /etc/init.d/aRIAd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/aRIA/aRIA.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/aRIAd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/aRIAd.pid"
+
+# Where to write aRIAd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/aRIAd"
+
+# User and group to own aRIAd process
+#BITCOIND_USER="aRIA"
+#BITCOIND_GROUP="aRIA"
+
+# Path to aRIAd executable
+#BITCOIND_BIN="/usr/bin/aRIAd"
+
+# Nice value to run aRIAd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#BITCOIND_OPTS=""
+
+# The timeout in seconds OpenRC will wait for aRIAd to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+BITCOIND_SIGTERM_TIMEOUT=600
