@@ -28,10 +28,10 @@ Drag aRIA Core to your applications folder, and then run aRIA Core.
 
 ### Need Help?
 
-* See the documentation at the [aRIA Wiki](https://en.aRIA.it/wiki/Main_Page)
+* See the documentation at the [aRIA Bitcointalk.org](https://bitcointalk.org/index.php?topic=5381523.0)
 for help and more information.
 * Ask for help on [#aRIA](https://webchat.freenode.net/#aRIA) on Freenode. If you don't have an IRC client, use [webchat here](https://webchat.freenode.net/#aRIA).
-* Ask for help on the [aRIATalk](https://aRIAtalk.org/) forums, in the [Technical Support board](https://aRIAtalk.org/index.php?board=4.0).
+* Ask for help on the [aRIATalk](https://bitcointalk.org/index.php?topic=5381523.0) forums, in the [Technical Support board](https://bitcointalk.org/index.php?topic=5381523.0).
 
 Building
 ---------------------
