@@ -5,7 +5,7 @@ Setup
 ---------------------
 aRIA Core is the original aRIA client and it builds the backbone of the network. It downloads and, by default, stores the entire history of aRIA transactions, which requires a few hundred gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download aRIA Core, visit [aRIAcore.org](https://aRIAcore.org/en/download/).
+To download aRIA Core, visit [aRIAcore](https://github.com/AriaCurrency/aRIA/releases/tag/v1.0).
 
 Running
 ---------------------
