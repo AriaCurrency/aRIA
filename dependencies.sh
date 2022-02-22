@@ -22,17 +22,3 @@ sudo apt-get install libzmq3-dev -y
 # QT
 sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler -y
 sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler -y
-
-wget http://files.virt2real.ru/packages/buildroot/miniupnpc-1.8.tar.gz
-
-
-tar -xvf miniupnpc-1.8.tar.gz
-
-
-cd miniupnpc-1.8 &&  make 
-
-sudo  make install 
-
-cd ..
-
-rm -rf miniupnpc-1.8 miniupnpc-1.8.tar.gz
