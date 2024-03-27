@@ -1,8 +1,8 @@
 # aRIA
-[![N|Solid](http://74.208.36.160/images/logo.png)](https://ariacurrency.com)
+[![N|Solid](https://explorer.ariacurrency.app/img/aRIA-logo.png)](https://ariacurrency.com)
 =====================================
 
-https://ariacurrency.com/
+https://nextgen.ariacurrency.com
 
 What is aRIA?
 ----------------
